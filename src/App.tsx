@@ -619,7 +619,7 @@ const HomePage = ({ services, onNavigate, onContact, onReserve }: any) => {
             <div ref={textRef} className="home-info-text-area no-scrollbar">
               <p className="home-info-eyebrow">Services touristiques · El Menzah 6</p>
               <p className="home-info-body">
-                CLOUD Travel est une agence de voyage et d'événementiels spécialisée dans les prestations haut de gamme pour particuliers et entreprises.
+                Anzuf Travel est une agence de voyage et d'événementiels spécialisée dans les prestations haut de gamme pour particuliers et entreprises.
               </p>
               <p className="home-info-tagline">
                 Votre satisfaction est notre priorité — des voyages personnalisés à votre image.
