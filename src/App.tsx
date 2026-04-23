@@ -584,8 +584,8 @@ const HomePage = ({ services, onNavigate, onContact, onReserve }: any) => {
       <div className="home-overlay" />
 
       <header className="home-header">
-        <img src="/assets/nom.png" alt="CLOUD Travel" className="home-logo" />
-        <img src="/assets/slogan.png" alt="Take me there" className="home-slogan" />
+        <img src={IMAGES.logo} alt="CLOUD Travel" className="home-logo" />
+        <img src={IMAGES.slogan} alt="Take me there" className="home-slogan" />
         <div className="home-header-divider" />
       </header>
 
