@@ -701,9 +701,9 @@ body {
 }
 
 .home-slogan {
-  height: 28px;
+  height: 60px;
   object-fit: contain;
-  opacity: .82;
+  opacity: 100%;
 }
 
 .home-header-divider {
