@@ -739,7 +739,7 @@ const ReservationModal = ({ onClose, formData, setFormData, onSubmit }: any) => 
 
           <div>
             <label className="field-label field-label-required">Date souhaitée</label>
-            <input name="date" type="date" value={formData.date} onChange={handleChange} required className="field-input" />
+            <input  name="date" type="date" value={formData.date} onChange={handleChange} required className="field-input" />
           </div>
 
           <div>
