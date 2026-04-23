@@ -4,7 +4,7 @@ const F = 'f_auto,q_auto'
 
 export const IMAGES = {
     logo: `${CLD}/${F}/v1776950693/nom_vxxbts.png`,
-    slogan : `${CLD}/${F}/v1776950693/slogan_ky7l8c.png`,
+    slogan : `${CLD}/${F}/v1776950693/slogan_c3tfsp.png`,
     no9ba: `${CLD}/${F}/v1776776746/WhatsApp_Image_2025-12-09_%C3%A0_10.13.17_60ef5e2e_kf08go.jpg`,
     tirksahra: `${CLD}/${F}/v1776776746/WhatsApp_Image_2025-12-09_%C3%A0_10.13.14_887583f8_rq3vb0.jpg`,
     mounument1: `${CLD}/${F}/v1776776745/WhatsApp_Image_2025-12-09_%C3%A0_10.19.06_85d2ea28_dtcdxa.jpg`,
